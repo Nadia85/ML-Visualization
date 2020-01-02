@@ -1,4 +1,4 @@
-## Data visualization for preprocessing
+## Data Visualization for preprocessing
 
 The following Python notebook includes:
 + Primary analysis (seaborn)
